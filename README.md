@@ -5,8 +5,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DEFYNYTY0&theme=merko)]([https://github.com/Ashutosh00710/github-readme-activity-graph])
 
 <div align="center">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=DEFYNYTY0&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=DEFYNYTY0&layout=pie&langs_count=25&theme=merko"/>
 
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java)](https://skillicons.dev)
   
