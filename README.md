@@ -12,13 +12,4 @@
   
 </div>
 
-
-<div align="center">
-<br><p align="centre"><b>Contador de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DEFYNYTY0}/count.svg" /></p> 
-<br>
-
-</div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d8517&height=190&section=footer"/>
